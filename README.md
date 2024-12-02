@@ -8,10 +8,10 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Read the elements of augmented matrix into arrays
+2. calculate elements of L and U
+3. Print elements of L and U
+4. find V by solving LV=B by forword substitution
 
 ## Program:
 (i) To find the L and U matrix
